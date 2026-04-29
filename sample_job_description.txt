@@ -1,0 +1,37 @@
+Senior MERN Stack Developer
+
+We are seeking a passionate and detail-oriented MERN Stack Developer to join our dynamic team. The ideal candidate will have strong expertise in building scalable and responsive web applications using MongoDB, Express.js, React.js, and Node.js.
+
+Key Responsibilities:
+- Develop and maintain full-stack web applications using the MERN stack
+- Design and implement scalable backend APIs with Node.js and Express.js
+- Build responsive and interactive user interfaces with React.js
+- Work with MongoDB for database design and optimization
+- Collaborate with cross-functional teams to deliver high-quality software
+- Implement best practices for code quality, security, and performance
+- Solve complex technical challenges and optimize application performance
+
+Requirements:
+- 2+ years of experience with MERN stack development
+- Proficiency in MongoDB, Express.js, React.js, and Node.js
+- Experience building scalable and responsive web applications
+- Strong problem-solving skills and attention to detail
+- Knowledge of modern JavaScript (ES6+), RESTful APIs, and state management
+- Familiarity with version control (Git) and agile development practices
+- Experience with AI-based applications and workflow automation tools is a plus
+- Ability to work independently and in collaborative environments
+
+Nice to Have:
+- Experience with voice assistants, resume generators, or code review tools
+- Knowledge of workflow automation tools like n8n
+- Understanding of cloud platforms (AWS, Azure, etc.)
+- Experience with testing frameworks and CI/CD pipelines
+
+What We Offer:
+- Competitive salary and benefits package
+- Opportunity to work on cutting-edge AI projects
+- Collaborative and innovative work environment
+- Professional development and growth opportunities
+- Flexible work arrangements
+
+If you are passionate about building innovative web applications and have the skills to deliver exceptional user experiences, we want to hear from you!
